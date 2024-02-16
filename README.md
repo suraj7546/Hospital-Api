@@ -1,4 +1,4 @@
-# Hospital API for COVID-19 Management
+# Hospital API for COVID-19 Management - MongoDB
 ## This API is designed for doctors and patients in a government-allocated hospital for COVID-19 testing, quarantine, and patient well-being.
 ## [Hosted link](https://hospital-api-ewnz.onrender.com)
 ## [Video link](https://drive.google.com/file/d/1Z3wm8J3OFbNMMrgSowbP_H8Rgx7EVMaN/view?usp=drive_link)
@@ -36,5 +36,7 @@
 - Get Reports by Status
 - Endpoint: GET /reports/:status
 
-
+##Video Explaination
 https://github.com/suraj7546/Hospital-Api/assets/92979091/9b219a3b-c5ff-45de-8c00-3fbaf5348124
+
+##Screenshots
