@@ -36,3 +36,5 @@
 - Get Reports by Status
 - Endpoint: GET /reports/:status
 
+
+https://github.com/suraj7546/Hospital-Api/assets/92979091/9b219a3b-c5ff-45de-8c00-3fbaf5348124
